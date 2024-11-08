@@ -45,3 +45,15 @@ nav > li > ul{
 #a:hover > ul{
     display: block;
 }
+
+ol{
+    list-style-type: upper-roman;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    
+}
